@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Test" section_id="1b2ad90547b3821082ab4db3416d4330" sys_domain="global" table="sys_db_object" version="3" view="Tables">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Test</caption>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-08-01 23:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b2ad90547b3821082ab4db3416d4330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1220299_lva">7e7109cd47fb421082ab4db3416d4346</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">7e7109cd47fb421082ab4db3416d4346</sys_scope>
+            <sys_update_name>sys_ui_section_1b2ad90547b3821082ab4db3416d4330</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-01 23:31:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Tables" name="Tables">4a4140f6f8f2021008dd9cfea425ac3f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

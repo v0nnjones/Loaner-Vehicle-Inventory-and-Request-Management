@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>actual_return_date</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-03 01:40:54</sys_created_on>
+        <sys_id>9bf0035947ffc61082ab4db3416d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actual_return_date</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1220299_lva">7e7109cd47fb421082ab4db3416d4346</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">7e7109cd47fb421082ab4db3416d4346</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9bf0035947ffc61082ab4db3416d4336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-03 01:40:54</sys_updated_on>
+        <table>x_1220299_lva_vehicle_tracker</table>
+        <ui_policy display_value="Vehicle Status is Returned for Inspection">b7c0cf1547ffc61082ab4db3416d434c</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=9bf0035947ffc61082ab4db3416d4336"/>
+</record_update>
